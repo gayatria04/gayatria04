@@ -23,6 +23,6 @@ I enjoy building real-world projects while learning backend and frontend concept
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/gayatri-ashtikar-6ba2162a1/
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gyatria04&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gayatria04&show_icons=true&theme=default)
 
 
