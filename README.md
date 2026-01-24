@@ -33,7 +33,7 @@ I enjoy building real-world projects while learning backend and frontend concept
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gayatria04)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gayatria04&row=1&column=6)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gayatria04&theme=flat&exclude=followers,stars)
 
 
 
