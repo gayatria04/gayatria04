@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**gayatria04/gayatria04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Gayatri👋
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+I'm a beginner full-stack developer learning MERN stack.
+I enjoy building real-world projects while learning backend and frontend concepts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently Learning
+- React.js
+- Node.js & Express
+- MongoDB
+- Data Structures & Algorithms
+
+## 🔨 Projects
+- Authentication System
+- NGO Volunteer Platform (MERN)
+- VidhiSakha (Legal Platform )
+  
+## 🎯 Goals
+- Become a strong backend/full-stack developer
+- Build scalable real-world applications
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/gayatri-ashtikar-6ba2162a1/
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gyatria04&show_icons=true&theme=default)
+
+
