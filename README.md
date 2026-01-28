@@ -5,7 +5,7 @@
 I'm a beginner full-stack developer learning MERN stack.
 I enjoy building real-world projects while learning backend and frontend concepts.
 
-## 🧠 Currently Learning
+## 🧠 Currently Working With
 - React.js
 - Node.js & Express
 - MongoDB
