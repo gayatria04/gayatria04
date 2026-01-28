@@ -30,10 +30,10 @@ I enjoy building real-world projects while learning backend and frontend concept
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gayatria04&layout=compact)
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gayatria04)
+![GitHub Streak](https://streak-stats.demolab.com?user=gayatria04)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gayatria04)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gayatria04&theme=flat&no-frame=true&margin-w=15)
 
 
 
