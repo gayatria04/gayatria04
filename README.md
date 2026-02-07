@@ -12,13 +12,12 @@ I enjoy building real-world projects while learning backend and frontend concept
 - Data Structures & Algorithms
 
 ## 🔨 Projects
-- Authentication System
 - NGO Volunteer Platform (MERN)
 - VidhiSakha (Legal Platform )
   
 ## 🎯 Goals
 - Become a strong backend/full-stack developer
-- Build scalable real-world applications
+- Build scalable real-world applications that solve existing problems
 
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/gayatri-ashtikar-6ba2162a1/
