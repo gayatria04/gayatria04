@@ -79,7 +79,7 @@ A scalable role-based legal management platform.
 
 ### Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=gayatria04&theme=flat&no-frame=true&margin-w=10)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gayatria04&theme=minimal)
 
 
 
