@@ -7,7 +7,7 @@ I enjoy building real-world projects while learning backend and frontend concept
 
 ## 🚀 Current Focus
 
-- Architecting a Lawyer Assist Portal (Role-Based MERN System)
+- Architecting a Lawyer Assist Portal (Role-Based System)
 - Mastering System Design & Clean Architecture
 - Strengthening Data Structures & Algorithms
 
@@ -26,9 +26,8 @@ I enjoy building real-world projects while learning backend and frontend concept
 - Context API
 
 **Database**
-- MongoDB
+- MYSQL
 - Schema Modeling
-- Aggregation Pipelines
 - Index Optimization
 
 **Practices**
