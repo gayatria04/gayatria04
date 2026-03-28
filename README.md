@@ -2,7 +2,7 @@
 # Hi, I'm Gayatri👋
 
 ## 👨‍💻 About Me
-I'm a beginner full-stack developer learning MERN stack.
+I'm a full-stack developer focused on MERN stack.
 I enjoy building real-world projects while learning backend and frontend concepts.
 
 ## 🚀 Current Focus
