@@ -39,20 +39,20 @@ I enjoy building real-world projects while learning backend and frontend concept
 
 ## 🏗 Highlighted Project
 
-### Lawyer Assist Portal
+### VidhiSakha - Lawyer Assist Portal
 
 A scalable role-based legal management platform.
 
 **Key Features**
 - Multi-role authentication (Lawyer, Firm, Client, Admin)
 - Case lifecycle management
-- Appointment workflows
+- Case Collaboration workflows
 - Knowledge repository & bookmarking
 - Role-specific dashboards
 
 **Architecture Principles**
 - Clean separation (routes → controllers → services)
-- Scalable MongoDB schema design
+- Scalable MYSQL schema design
 - Secure middleware-driven access
 - Modular backend structure
 
