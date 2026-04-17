@@ -27,6 +27,7 @@ I enjoy building real-world projects while learning backend and frontend concept
 
 **Database**
 - MYSQL
+- MongoDB
 - Schema Modeling
 - Index Optimization
 
