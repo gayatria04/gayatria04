@@ -45,10 +45,11 @@ I enjoy building real-world projects while learning backend and frontend concept
 A scalable role-based legal management platform.
 
 **Key Features**
-- Multi-role authentication (Lawyer, Firm, Client, Admin)
+- Multi-role authentication (Lawyer, Firm-admin, Client)
+- Firm-system with Firm-admin and lawyers working inside the firm
 - Case lifecycle management
 - Case Collaboration workflows
-- Knowledge repository & bookmarking
+- Real-time notifications
 - Role-specific dashboards
 
 **Architecture Principles**
