@@ -47,7 +47,9 @@ A scalable role-based legal management platform.
 **Key Features**
 - Multi-role authentication (Lawyer, Firm-admin, Client)
 - Firm-system with Firm-admin and lawyers working inside the firm
+- Independent Lawyer's case management system
 - Case lifecycle management
+- Case requests lifecycle
 - Case Collaboration workflows
 - Real-time notifications
 - Role-specific dashboards
