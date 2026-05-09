@@ -41,7 +41,7 @@ I enjoy building real-world projects while learning backend and frontend concept
 
 ## 🏗 Highlighted Project
 
-### VidhiSakha - Lawyer Assist Portal(Multirole RBAC system)
+### VidhiSakha - Lawyer Assist Portal(Multi-user RBAC system)
 
 A scalable role-based legal management platform.
 
