@@ -7,7 +7,7 @@ I enjoy building real-world projects while learning backend and frontend concept
 
 ## 🚀 Current Focus
 
-- Architecting VidhiSakha -Lawyer Assist Portal (Role-Based System)
+- Architecting VidhiSakha -Lawyer Assist Portal
 - Mastering System Design & Clean Architecture
 - Strengthening Data Structures & Algorithms
 
@@ -18,7 +18,7 @@ I enjoy building real-world projects while learning backend and frontend concept
 - Express.js
 - RESTful API Design
 - JWT Authentication
-- Role-Based Access Control (RBAC)
+- Role-Based Access Control 
 - Google OAuth system
 
 **Frontend**
