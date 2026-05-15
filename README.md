@@ -31,6 +31,7 @@ I enjoy building real-world projects while learning backend and frontend concept
 - MongoDB
 - Schema Modeling
 - Index Optimization
+- DB Transactions
 
 **Practices**
 - Modular Architecture
