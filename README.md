@@ -9,7 +9,7 @@ I enjoy building real-world projects while learning backend and frontend concept
 
 - Architecting VidhiSakha -Lawyer Assist Portal
 - Mastering System Design & Clean Architecture
-- Mastering Database architecture thinking
+- Mastering Database architecture
 - Strengthening Data Structures & Algorithms
 
 ## 🧠 Technical Stack
