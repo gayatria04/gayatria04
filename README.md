@@ -44,7 +44,7 @@ I enjoy building real-world projects while learning backend and frontend concept
 
 ### VidhiSakha - Lawyer Assist Portal(Multi-user RBAC system)
 
-A scalable role-based legal management platform.
+A scalable role-based legal management platform
 
 **Key Features**
 - Multi-role authentication (Lawyer, Firm-admin, Client)
