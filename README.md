@@ -52,7 +52,7 @@ A scalable role-based legal management platform
 - Independent Lawyer's case management system
 - Case lifecycle management
 - Case requests lifecycle
-- Case Collaboration workflows
+- Case Collaboration requests and workflows
 - Real-time notifications
 - Role-specific dashboards
 
