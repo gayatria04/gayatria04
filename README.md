@@ -53,7 +53,7 @@ A scalable role-based legal management platform
 - Case lifecycle management
 - Case requests lifecycle
 - Case Collaboration requests and workflows
-- Real-time case notifications
+- Real-time case notifications through app
 - Role-specific dashboards
 
 **Architecture Principles**
