@@ -1,17 +1,17 @@
 
-# Hello, I'm Gayatri👋
+# Hello, I'm Gayatri
 
-## 👨‍💻 About Me
+## About Me
 I'm a full-stack developer focused on MERN stack
 I enjoy building real-world projects while learning backend and frontend concepts
 
-## 🚀 Current Focus
+## Current Focus
 
 - Architecting VidhiSakha-Lawyer Assist Portal
 - Mastering System Design & Clean Architecture
 - Strengthening Data Structures & Algorithms
 
-## 🧠 Technical Stack
+## Technical Stack
 
 **Backend**
 - Node.js
@@ -40,7 +40,7 @@ I enjoy building real-world projects while learning backend and frontend concept
 - Error Handling Standards
 
 
-## 🏗 Highlighted Project
+## Highlighted Project
 
 ### VidhiSakha - Lawyer Assist Portal(Multi-user RBAC system)
 
@@ -62,14 +62,14 @@ A scalable role-based legal management platform
 - Secure middleware-driven access
 - Modular backend structure
 
-## 📈 Engineering Philosophy
+## Engineering Philosophy
 
 - Build systems, not just features.
 - Think architecture before implementation.
 - Write scalable and maintainable code.
 - Prioritize clarity over complexity.
 
-## 📫 Connect With Me
+## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/gayatri-ashtikar-6ba2162a1/
 
 ### Overall Activity
@@ -78,7 +78,7 @@ A scalable role-based legal management platform
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gayatria04&layout=compact&theme=default&hide_border=true)
 
-## 🔥 GitHub Streak
+## GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=gayatria04&theme=default&hide_border=true)
 
 
