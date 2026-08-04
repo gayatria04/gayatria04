@@ -6,6 +6,7 @@ I'm a full-stack developer focused on MERN stack
 I enjoy building real-world projects while learning backend and frontend concepts
 
 ## Current Focus
+
 - Learning Java Full-stack Development 
 - Mastering System Design & Clean Architecture
 - Strengthening Data Structures & Algorithms
