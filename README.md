@@ -9,7 +9,6 @@ I enjoy building real-world projects while learning backend and frontend concept
 
 - Learning Java Full-stack Development 
 - Mastering System Design & Clean Architecture
-- Strengthening Data Structures & Algorithms
 
 ## Technical Stack
 
