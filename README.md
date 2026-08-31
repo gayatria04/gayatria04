@@ -6,7 +6,6 @@ I'm a full-stack developer focused on MERN stack
 I enjoy building real-world projects while learning backend and frontend concepts
 
 ## Current Focus
-
 - Learning Java Full-stack Development 
 - Mastering System Design & Clean Architecture
 
@@ -41,7 +40,7 @@ I enjoy building real-world projects while learning backend and frontend concept
 
 ## Highlighted Project
 
-### VidhiSakha - Lawyer Assist Portal(Multi-user RBAC system)
+### VidhiSakha - Lawyer Assist Portal
 
 A scalable role-based legal management platform
 
