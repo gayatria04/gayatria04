@@ -48,7 +48,7 @@ A scalable role-based legal management platform
 - Multi-role authentication (Lawyer, Firm-admin, Client)
 - Firm-system with Firm-admin and lawyers working inside the firm
 - Independent Lawyer's case management system
-- Case lifecycle management
+- Case management
 - Case requests lifecycle
 - Case Collaboration requests and workflows
 - Real-time case notifications through app
