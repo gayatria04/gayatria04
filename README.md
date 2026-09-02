@@ -42,7 +42,7 @@ I enjoy building real-world projects while learning backend and frontend concept
 
 ### VidhiSakha - Lawyer Assist Portal
 
-A scalable role-based legal management platform
+A scalable role-based legal management platform for Lawyers, Lawfirms and Clients 
 
 **Key Features**
 - Multi-role authentication (Lawyer, Firm-admin, Client)
